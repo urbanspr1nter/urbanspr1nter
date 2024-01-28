@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm currently a Software Developer working on the front-end web.
+
+I also work through the stack and have been a full-stack and backend developer at various points in my career.
+
+* JavaScript/TypeScript/Go/Python
+* Node/React/NextJS
+* MySQL, MongoDB, Postgres
+
 <!--
 **urbanspr1nter/urbanspr1nter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
