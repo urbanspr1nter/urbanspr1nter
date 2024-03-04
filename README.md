@@ -1,28 +1,38 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm currently a Software Developer working on frontend web development at **Microsoft**. 
 
 Presently, I work on JavaScript-based rich text editors for the web browser. 📝
 
-I have also been a **full-stack** and **backend developer** at various points in my career. Some of the work I've done included working service buses to deliver pharmaceutical data between heterogenous computer systems, working in the nitty gritty of relational databases, optimizing rendering performance of low-end mobile devices, building cloud services, and designing integrations and dashboards on the web.
+I have also been a **full-stack** and **backend developer** at various points in my career. Some of the work I've done included:
+* Main author of the Microsoft Teams web message composition experiences
+* Writing front-end JavaScript apps within an extensible messaging app platform
+* Designing integrations and dashboards on the web.
+* Building cloud services
+* Optimizing rendering performance of low-end mobile devices
+* Working in the nitty gritty of relational databases
+* Working service buses to deliver pharmaceutical data between heterogenous computer systems
+
+## Technologies
 
 Some of the technologies I am familiar with at a professional level are:
 
-➡️ **Languages**: JavaScript, TypeScript, Go, Python, C#, VB.NET
-
-➡️ **Frontend Frameworks**: Node JS, React, Next JS
-
-➡️ **Databases/Stores**: MySQL, MongoDB, Postgres, Redis
+* **Languages**: JavaScript, TypeScript, Go, Python, C#, VB.NET
+* **Frontend Frameworks**: Node JS, React, Next JS
+* **Databases/Stores**: MySQL, MongoDB, Postgres, Redis
 
 Additionally, I have experience in the following tools
 
-➡️ **Operating Systems**: Linux, macOS, Windows
+* **Operating Systems**: Linux, macOS, Windows
+* **Bundlers**: Webpack, Vite
+* **Editors**: nvim/vim, Visual Studio Code
+* **Virtualization**: VMWare vSphere/ESXi, Microsoft Windows Hypervisor, Proxmox
 
-➡️ **Bundlers**: Webpack, Vite
-
-➡️ **Editors**: vim, VS Code
-
-➡️ **Virtualization**: VMWare vSphere/ESXi, Microsoft Windows Hypervisor, Proxmox 
+## Contact
+You can reach me through:
+* [LinkedIn](https://www.linkedin.com/in/rogerngo90)
+* [Email - urbanspr1nter@gmail.com](mailto:urbanspr1nter@gmail.com)
+* [Website - https://rogerngo.com](https://rogerngo.com) 
 
 <!--
 **urbanspr1nter/urbanspr1nter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
