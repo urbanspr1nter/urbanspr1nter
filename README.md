@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a Software Developer working on frontend web development at **Microsoft**. 
+I'm currently a Software Developer working on UI at **Netflix**. 
 
 Presently, I work on JavaScript-based rich text editors for the web browser. 📝
 
