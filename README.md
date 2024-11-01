@@ -32,7 +32,11 @@ Additionally, I have experience in the following tools
 You can reach me through:
 * [LinkedIn](https://www.linkedin.com/in/rogerngo90)
 * [Email - urbanspr1nter@gmail.com](mailto:urbanspr1nter@gmail.com)
-* [Website - https://rogerngo.com](https://rogerngo.com) 
+* [Website - https://rogerngo.com](https://rogerngo.com)
+
+## Current tech I work with in my spare time
+
+<img width="800px" src="https://wakatime.com/share/@27a40763-3a77-4e90-9d02-32aaa4b82370/e32f6699-566b-488c-9f45-b9429a55d865.svg"/>
 
 <!--
 **urbanspr1nter/urbanspr1nter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
