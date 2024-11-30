@@ -17,8 +17,8 @@ I have also been a **full-stack** and **backend developer** at various points in
 
 Some of the technologies I am familiar with at a professional level are:
 
-* **Languages**: JavaScript, TypeScript, Go, Python, C#, VB.NET
-* **Frontend Frameworks**: Node JS, React, Next JS
+* **Languages**: C, JavaScript, TypeScript, Go, Python, C#, VB.NET
+* **Frontend Frameworks**: libc, Node JS, React, Next JS
 * **Databases/Stores**: MySQL, MongoDB, Postgres, Redis
 
 Additionally, I have experience in the following tools
