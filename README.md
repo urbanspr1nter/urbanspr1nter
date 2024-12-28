@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I'm currently a Software Developer working on UI at **Netflix**. 
-
-Presently, I work on JavaScript-based rich text editors for the web browser. 📝
+I'm currently a Senior Software Engineer working at **Netflix**.
 
 I have also been a **full-stack** and **backend developer** at various points in my career. Some of the work I've done included:
+* Focusing on memory and performance for Netflix TV applications
 * Main author of the Microsoft Teams web message composition experiences
 * Writing front-end JavaScript apps within an extensible messaging app platform
 * Designing integrations and dashboards on the web.
@@ -17,16 +16,15 @@ I have also been a **full-stack** and **backend developer** at various points in
 
 Some of the technologies I am familiar with at a professional level are:
 
-* **Languages**: C, JavaScript, TypeScript, Go, Python, C#, VB.NET
-* **Frontend Frameworks**: libc, Node JS, React, Next JS
-* **Databases/Stores**: MySQL, MongoDB, Postgres, Redis
+* **Languages**: C, Python, JavaScript, TypeScript, Go, C#, VB.NET (yes, that)
+* **Technologies**: MySQL, SQLite, Mongo, Redis, libc, gdb, Linux, etc. (lots of other stuff) 
 
 Additionally, I have experience in the following tools
 
 * **Operating Systems**: Linux, macOS, Windows
-* **Bundlers**: Webpack, Vite
-* **Editors**: nvim/vim, Visual Studio Code
 * **Virtualization**: VMWare vSphere/ESXi, Microsoft Windows Hypervisor, Proxmox
+
+I am a huge Linux fan and user. 
 
 ## Contact
 You can reach me through:
