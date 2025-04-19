@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm currently a Software Engineer.
+I'm currently a Software Engineer. 
+
+**Currently really interested in AI applications, and AI infrastructure and hardware!!!**
 
 In the past I've been focused on:
 * Focusing on memory and performance for Netflix TV applications
